@@ -1,0 +1,3 @@
+This app have the one python file that have four questions
+after submitting the quiz the result.csv file will be generated and store the result of the student.
+data will be store in date, roll no ,total question and opted marks.
